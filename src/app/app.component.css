@@ -1,0 +1,27 @@
+.leftWindow{
+    width: 80%;
+    height: 86vh;
+    margin: 10px 0 10px 15px;
+    color: rgb(0, 0, 0);
+    padding: 15px;
+    background-color: rgba(255, 255, 255, 0.991);
+    border-radius: 10px;
+    border-top-right-radius: 0;
+}
+.mainWindow {
+    height: 100%;
+}
+/* .editor-textarea {
+    margin-top: -1px;
+    border: 1px solid #ddd;
+    padding: 0.75em;
+ } */
+/* 
+ .editor-textarea-editable {
+    padding: 3em 0;
+    padding-left: 5vw;
+    padding-right: 5vw;
+    line-height: 1.65;
+    & > * + * {
+       margin-top: 1em;
+    } */
